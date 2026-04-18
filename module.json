@@ -1,0 +1,41 @@
+{
+  "id": "adventure-dice-themes",
+  "title": "Adventure Dice Themes",
+  "description": "Temáticas de dados para Waterdeep: Dragon Heist, Descent into Avernus y Tomb of Annihilation. Compatible con Dice So Nice! 5.x",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Tu Nombre Aquí"
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "dice-so-nice",
+        "type": "module"
+      }
+    ]
+  },
+  "scripts": [
+    "scripts/adventure-dice.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json"
+    }
+  ],
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
