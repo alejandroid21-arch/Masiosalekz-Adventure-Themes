@@ -35,7 +35,7 @@
       "path": "lang/es.json"
     }
   ],
-  "url": "",
-  "manifest": "",
-  "download": ""
+  "url": "https://github.com/Masiosalekz/Masiosalekz-Adventure-Themes",
+  "manifest": "https://raw.githubusercontent.com/Masiosalekz/Masiosalekz-Adventure-Themes/main/module.json",
+  "download": "https://github.com/Masiosalekz/Masiosalekz-Adventure-Themes/archive/refs/heads/main.zip"
 }
